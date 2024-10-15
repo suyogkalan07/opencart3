@@ -1,0 +1,5 @@
+18:12:58.914 [main] INFO  testCases.TC0002_LoginTest - click on login Page
+18:12:58.976 [main] INFO  testCases.TC0002_LoginTest - Enter login details
+18:13:01.122 [main] INFO  testCases.TC0002_LoginTest - *****Finish TC002 _Login Test*********
+18:14:11.089 [main] INFO  testCases.TC0002_LoginTest - ********Starting Login page Test************
+18:14:11.630 [main] INFO  testCases.TC0002_LoginTest - click on myaccount page

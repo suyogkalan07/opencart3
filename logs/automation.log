@@ -1,0 +1,21 @@
+18:14:12.790 [main] INFO  testCases.TC0002_LoginTest - click on login Page
+18:14:12.823 [main] INFO  testCases.TC0002_LoginTest - Enter login details
+18:14:14.596 [main] INFO  testCases.TC0002_LoginTest - *****Finish TC002 _Login Test*********
+18:35:16.050 [main] INFO  testCases.TC0002_LoginTest - ********Starting Login page Test************
+18:35:16.317 [main] INFO  testCases.TC0002_LoginTest - click on myaccount page
+18:35:17.158 [main] INFO  testCases.TC0002_LoginTest - click on login Page
+18:35:17.161 [main] INFO  testCases.TC0002_LoginTest - Enter login details
+18:35:18.390 [main] INFO  testCases.TC0002_LoginTest - *****Finish TC002 _Login Test*********
+17:39:43.193 [main] INFO  testCases.TC0002_LoginTest - ********Starting Login page Test************
+17:39:43.474 [main] INFO  testCases.TC0002_LoginTest - click on myaccount page
+17:39:45.134 [main] INFO  testCases.TC0002_LoginTest - click on login Page
+17:39:45.136 [main] INFO  testCases.TC0002_LoginTest - Enter login details
+17:39:47.193 [main] INFO  testCases.TC0002_LoginTest - *****Finish TC002 _Login Test*********
+17:44:56.573 [main] INFO  testCases.TC003_LoginDDT - ******************Starting og LoginDDT test***************
+17:45:09.395 [main] INFO  testCases.TC003_LoginDDT - ******************Starting og LoginDDT test***************
+17:45:21.267 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:45:21.279 [main] INFO  testCases.TC003_LoginDDT - ******************Starting og LoginDDT test***************
+17:45:33.146 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:45:33.165 [main] INFO  testCases.TC003_LoginDDT - ******************Starting og LoginDDT test***************
+17:45:45.118 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:45:45.129 [main] INFO  testCases.TC003_LoginDDT - ******************Starting og LoginDDT test***************

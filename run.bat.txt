@@ -1,0 +1,2 @@
+cd D:\Java_training\opencart3
+mvn test
