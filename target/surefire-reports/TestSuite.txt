@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 6.137 s <<< FAILURE! -- in TestSuite
-testCases.TC003_LoginDDT.setup[chrome, window](0) -- Time elapsed: 3.461 s <<< FAILURE!
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 6.199 s <<< FAILURE! -- in TestSuite
+testCases.TC003_LoginDDT.setup[chrome, window](0) -- Time elapsed: 3.361 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: 'DESKTOP-092LUS1', ip: '192.168.185.81'
+Host info: host: 'DESKTOP-092LUS1', ip: '192.168.192.81'
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
